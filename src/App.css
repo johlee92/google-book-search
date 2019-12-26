@@ -1,0 +1,10 @@
+.page_header {
+    background-color: black;
+    min-height: 50px;
+  }
+  
+.page_header > h1 {
+    text-align: center;
+    color: white;
+}
+  
